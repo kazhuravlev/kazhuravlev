@@ -5,6 +5,7 @@
 ## Repos
 
 - [options-gen](https://github.com/kazhuravlev/options-gen) Codegen for functional options in go projects
+- [healthcheck](https://github.com/kazhuravlev/healthcheck) Readiness probes for Kubernetes application
 - [just](https://github.com/kazhuravlev/just) Collection of useful functions
 - [optional](https://github.com/kazhuravlev/optional) Optional variables and fields
 - [git-tools](https://github.com/kazhuravlev/git-tools) Useful set of tools which helps to manage git tags
