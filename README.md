@@ -6,6 +6,7 @@
 
 - [options-gen](https://github.com/kazhuravlev/options-gen) Codegen for functional options in go projects
 - [healthcheck](https://github.com/kazhuravlev/healthcheck) Readiness probes for Kubernetes application
+- [toolset](https://github.com/kazhuravlev/toolset) Simply manage and update your project-specific tools
 - [kafka](https://github.com/kazhuravlev/kafka) Useful wrappers on top of kafka-go
 - [just](https://github.com/kazhuravlev/just) Collection of useful functions
 - [optional](https://github.com/kazhuravlev/optional) Optional variables and fields
