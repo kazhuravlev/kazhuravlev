@@ -13,3 +13,4 @@
 - [ptable](https://github.com/kazhuravlev/ptable) Print slice of structs as a table
 - [repeat](https://github.com/kazhuravlev/repeat) Repeat shell command several times
 - [awesome-tool](https://github.com/kazhuravlev/awesome-tool) Awesome tool for Awesome Lists
+- [database-gateway](https://github.com/kazhuravlev/database-gateway) Gateway that allows to run a queries in production safe
