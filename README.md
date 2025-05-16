@@ -14,3 +14,4 @@
 - [repeat](https://github.com/kazhuravlev/repeat) Repeat shell command several times
 - [awesome-tool](https://github.com/kazhuravlev/awesome-tool) Awesome tool for Awesome Lists
 - [database-gateway](https://github.com/kazhuravlev/database-gateway) Gateway that allows to run a queries in production safe
+- [obsidian-github](https://github.com/kazhuravlev/obsidian-github) Plugin for Obsidian that allows to sunc data frim GitHub to Vault
