@@ -1,5 +1,3 @@
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=kazhuravlev)](https://github.com/kazhuravlev)
-
 ## Repos
 
 - [options-gen](https://github.com/kazhuravlev/options-gen) Codegen for functional options in go projects
