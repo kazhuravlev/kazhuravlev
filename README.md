@@ -1,7 +1,3 @@
-# Open Source Projects
-
-A collection of Go tools and utilities designed to enhance developer productivity and application reliability.
-
 ## Development Tools
 
 - **[options-gen](https://github.com/kazhuravlev/options-gen)** - Code generator for functional options pattern in Go
