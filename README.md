@@ -1,15 +1,33 @@
-## Repos
+# Open Source Projects
 
-- [options-gen](https://github.com/kazhuravlev/options-gen) Codegen for functional options in go projects
-- [healthcheck](https://github.com/kazhuravlev/healthcheck) Readiness probes for Kubernetes application
-- [toolset](https://github.com/kazhuravlev/toolset) Simply manage and update your project-specific tools
-- [kafka](https://github.com/kazhuravlev/kafka) Useful wrappers on top of kafka-go
-- [just](https://github.com/kazhuravlev/just) Collection of useful functions
-- [optional](https://github.com/kazhuravlev/optional) Optional variables and fields
-- [git-tools](https://github.com/kazhuravlev/git-tools) Useful set of tools which helps to manage git tags
-- [structspec](https://github.com/kazhuravlev/structspec) Generate results of struct reflection
-- [ptable](https://github.com/kazhuravlev/ptable) Print slice of structs as a table
-- [repeat](https://github.com/kazhuravlev/repeat) Repeat shell command several times
-- [awesome-tool](https://github.com/kazhuravlev/awesome-tool) Awesome tool for Awesome Lists
-- [database-gateway](https://github.com/kazhuravlev/database-gateway) Gateway that allows to run a queries in production safe
-- [obsidian-github](https://github.com/kazhuravlev/obsidian-github) Plugin for Obsidian that allows to sunc data frim GitHub to Vault
+A collection of Go tools and utilities designed to enhance developer productivity and application reliability.
+
+## Development Tools
+
+- **[options-gen](https://github.com/kazhuravlev/options-gen)** - Code generator for functional options pattern in Go
+  projects
+- **[toolset](https://github.com/kazhuravlev/toolset)** - Manage and update project-specific tools with ease
+- **[git-tools](https://github.com/kazhuravlev/git-tools)** - Command-line utilities for managing Git tags and workflows
+- **[repeat](https://github.com/kazhuravlev/repeat)** - Execute shell commands multiple times with customizable
+  intervals
+
+## Application Infrastructure
+
+- **[healthcheck](https://github.com/kazhuravlev/healthcheck)** - Kubernetes-ready health and readiness probe
+  implementations
+- **[kafka](https://github.com/kazhuravlev/kafka)** - Production-ready wrappers and utilities for kafka-go
+- **[database-gateway](https://github.com/kazhuravlev/database-gateway)** - Secure database query execution gateway for
+  production environments
+
+## Go Libraries
+
+- **[just](https://github.com/kazhuravlev/just)** - Collection of commonly used utility functions
+- **[optional](https://github.com/kazhuravlev/optional)** - Type-safe optional values implementation
+- **[structspec](https://github.com/kazhuravlev/structspec)** - Runtime struct reflection result generation
+- **[ptable](https://github.com/kazhuravlev/ptable)** - Format and display struct slices as readable tables
+
+## Productivity Tools
+
+- **[awesome-tool](https://github.com/kazhuravlev/awesome-tool)** - Curated management tool for Awesome Lists
+- **[obsidian-github](https://github.com/kazhuravlev/obsidian-github)** - Obsidian plugin for GitHub data
+  synchronization
