@@ -1,3 +1,8 @@
+Hi! I’m Kirill — a software architect with over 15 years of experience in software development.
+I’m always open to collaboration and new opportunities.
+
+Check out [my CV](https://registry.jsonresume.org/kazhuravlev) to learn more.
+
 ## Development Tools
 
 - **[options-gen](https://github.com/kazhuravlev/options-gen)** - Code generator for functional options pattern in Go
